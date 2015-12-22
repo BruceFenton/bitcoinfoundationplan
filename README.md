@@ -59,6 +59,17 @@ Bitcoin Foundation Regulatory Affairs Committees led by Attorney Marco Santori. 
 
 
 
+2016 Plan
+
+[On Dec 22, the board voted that specific actions for 2016 will be discussed at the next meeeting]
+
+This space can be used for 2016 action items.
+
+
+- Set date for annual meeting
+- Indentify Chair for Technical Communications Committee
+- Identify Chair for adoption Comittee
+
 
 
 
