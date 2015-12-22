@@ -10,9 +10,13 @@ Vision:  To serve as an international platform for a network of individuals and 
 
 Mission:  To help advance Bitcoin and related technology through education advocacy and outreach across the globe by focusing on three primary areas: 
 
+
 1) Fostering Core Development
+
 2) Furthering education & adoption
+
 3) Working to limit harmful regulations and encourage technical rather than regulatory solutions
+
 
 Structure:  The Bitcoin Foundation is based in Washington DC and is structured as a 501c(6) non-profit organization.  Membership is comprised of individuals and corporate members globally.
 
