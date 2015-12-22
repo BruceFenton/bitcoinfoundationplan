@@ -1,7 +1,7 @@
 # bitcoinfoundationplan
 
 
-2016 Bitcoin Foundation Plan Outline Draft
+2016 Bitcoin Foundation Mission Statement Outline Draft
 
 For member comment.
 
