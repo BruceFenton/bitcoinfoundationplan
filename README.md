@@ -39,7 +39,7 @@ The foundation also wishes to create a Technical Communications Committee which 
 
 
 FUTHERING EDUCATION & ADOPTION
-The foundation aims to educate individuals, corporations, government agencies, no profit organizations and others and to encourage adoption of the technology.
+The foundation aims to educate individuals, corporations, government agencies, non-profit organizations and others and to encourage adoption of the technology.
 We seek to support activities which increase the number of overall users and the overall general public knowledge.  As part of this effort are included several initiatives:
 The Bitcoin Foundation Education Committee – currently chaired by Colin Gallagher 
 The Bitcoin Foundation Adoption Committee (not yet filled)
